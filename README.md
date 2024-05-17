@@ -6,7 +6,7 @@ Li4Movie é um esboço inicial de um projeto que visa criar uma aplicação para
 
 Li4Movie é uma aplicação em fase inicial de desenvolvimento, projetada para recomendar filmes aos usuários com base em seus interesses e preferências. A lógica de segurança foi implementada para garantir a proteção dos dados de login dos usuários. Além disso, o projeto está configurado para utilizar chaves individuais para acesso seguro aos dados sensíveis armazenados em um cofre de nuvem.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas até o momento
 
 - Java 22
 - Spring Batch
