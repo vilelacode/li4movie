@@ -10,6 +10,8 @@ Li4Movie é uma aplicação em fase inicial de desenvolvimento, projetada para r
 
 - Java 22
 - Spring Batch
+- OAuth2
+- Spring Security + JWT
 - Banco de dados MySQL
 
 ## Funcionalidades
